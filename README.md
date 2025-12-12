@@ -55,6 +55,6 @@ Here are some highlighted repositories from my work:
 
 ### ✨ Let’s Connect
 
-Feel free to explore my projects and reach out if you want to collaborate or learn together!
-📫 **Email:** kislay.kt18@gmail.com 
+Feel free to explore my projects and reach out if you want to collaborate or learn together! <br>
+📫 **Email:** kislay.kt18@gmail.com <br>
 🔗 **LinkedIn:** [linkedin.com/kislay-tiwari](https://www.linkedin.com/in/kislay-tiwari/)
