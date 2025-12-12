@@ -16,19 +16,30 @@
 - 🔭 Building small web apps and improving my DSA fundamentals.
 - 🌱 Currently learning **React**, **Node/Express**, and a bit of **TypeScript**.
 - 🤝 Open to collaborating on beginner-friendly full-stack projects.
-- 📫 How to reach me: _add your email or LinkedIn here_
+- 📫 How to reach me:
+<p align="center">
+  <a href="mailto:kislay.kt18@gmail.com" title="Email">
+    <img alt="Gmail" height="38" src="https://img.icons8.com/fluency/48/gmail-new.png">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/kislay-tiwari" title="LinkedIn">
+    <img alt="LinkedIn" height="38" src="https://img.icons8.com/color/48/linkedin-circled--v1.png">
+  </a>
+</p>
+
+
 
 ---
 
 ## 🧰 Tech I use
-**Languages:** JavaScript · Python · C++ · SQL  
+**Languages:** C++ · JavaScript · Python · SQL  
 **Web:** HTML · CSS · React · Node.js · Express · Flask · MongoDB · MySQL  
 **Tools:** Git · GitHub · VS Code · Linux
 
 <p>
+  <img src="https://img.shields.io/badge/C++-20232A?logo=cplusplus" />
   <img src="https://img.shields.io/badge/JavaScript-20232A?logo=javascript" />
   <img src="https://img.shields.io/badge/Python-20232A?logo=python" />
-  <img src="https://img.shields.io/badge/C++-20232A?logo=cplusplus" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react" />
   <img src="https://img.shields.io/badge/Node.js-20232A?logo=nodedotjs" />
   <img src="https://img.shields.io/badge/Express-20232A?logo=express" />
@@ -47,8 +58,6 @@
 | [Mern](https://github.com/Kislay0/Mern) | MERN playground / experiments | Mongo · Express · React · Node |
 | [Leetcode-practice](https://github.com/Kislay0/Leetcode-practice) | DSA practice archive | C++ |
 
-> Tip: Pin the top 3–4 repos above so they appear first on your profile.
-
 ---
 
 ## 📈 GitHub at a glance
@@ -62,13 +71,13 @@
 ## 🔗 Connect: <br>
 <p align="center">
   <a href="mailto:kislay.kt18@gmail.com" title="Email">
-    <img alt="Gmail" height="28" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg">
+    <img alt="Gmail" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/kislay-tiwari" title="LinkedIn">
-    <img alt="LinkedIn" height="28" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg">
+    <img alt="LinkedIn" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
   </a>
 </p>
 
-<!-- Optional: a short “Now” section to show what you’re focused on -->
-<sub>Now: polishing MERN basics and building small features end-to-end.</sub>
+<!-- Optional: a short “Now” section to show what you’re focused on 
+<sub>Now: polishing MERN basics and building small features end-to-end.</sub> -->
