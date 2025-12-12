@@ -18,11 +18,10 @@
 - 🤝 Open to collaborating on beginner-friendly full-stack projects.
 - 📫 How to reach me:
   <a href="mailto:kislay.kt18@gmail.com" title="Email">
-    <img alt="Gmail" height="38" src="https://img.icons8.com/fluency/48/gmail-new.png">
+    <img alt="Gmail" height="24" src="https://img.icons8.com/fluency/48/gmail-new.png">
   </a>
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/kislay-tiwari" title="LinkedIn">
-    <img alt="LinkedIn" height="38" src="https://img.icons8.com/color/48/linkedin-circled--v1.png">
+    <img alt="LinkedIn" height="24" src="https://img.icons8.com/color/48/linkedin-circled--v1.png">
   </a>
 
 
