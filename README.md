@@ -1,24 +1,65 @@
-<!--
-**Kislay0/Kislay0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile README for @Kislay0 -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Profile README for github.com/Kislay0 -->
-
-<h1 align="center">Hey, I'm Kislay Tiwari 👋</h1>
+<h1 align="center">Hi, I'm Kislay Tiwari 👋</h1>
 <p align="center">
-  Backend-leaning full-stack dev • Cloud-native systems • Shipping reliable web apps
+  Passionate developer exploring full-stack web apps & problem solving.
 </p>
 
+<p align="center">
+  <a href="https://github.com/Kislay0?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Open%20Source-informational?logo=github"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Kislay0&style=flat">
+</p>
+
+---
+
+## 🧭 About me
+- 🔭 Building small web apps and improving my DSA fundamentals.
+- 🌱 Currently learning **React**, **Node/Express**, and a bit of **TypeScript**.
+- 🤝 Open to collaborating on beginner-friendly full-stack projects.
+- 📫 How to reach me: _add your email or LinkedIn here_
+
+---
+
+## 🧰 Tech I use
+**Languages:** JavaScript · Python · C++ · SQL  
+**Web:** HTML · CSS · React · Node.js · Express · Flask · MongoDB · MySQL  
+**Tools:** Git · GitHub · VS Code · Linux
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-20232A?logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-20232A?logo=python" />
+  <img src="https://img.shields.io/badge/C++-20232A?logo=cplusplus" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-20232A?logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Express-20232A?logo=express" />
+  <img src="https://img.shields.io/badge/Flask-20232A?logo=flask" />
+  <img src="https://img.shields.io/badge/MongoDB-20232A?logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-20232A?logo=mysql" />
+</p>
+
+---
+
+## 🌟 Featured projects
+| Project | What it is | Stack |
+|---|---|---|
+| [responsive-login-signin-signup](https://github.com/Kislay0/responsive-login-signin-signup) | Clean, responsive auth UI components | HTML · CSS · JS |
+| [Web-based-SSIS](https://github.com/Kislay0/Web-based-SSIS) | Student Information System (Flask + MySQL) | Flask · MySQL |
+| [Mern](https://github.com/Kislay0/Mern) | MERN playground / experiments | Mongo · Express · React · Node |
+| [Leetcode-practice](https://github.com/Kislay0/Leetcode-practice) | DSA practice archive | C++ |
+
+> Tip: Pin the top 3–4 repos above so they appear first on your profile.
+
+---
+
+## 📈 GitHub at a glance
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kislay0&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kislay0&layout=compact" height="150" />
+</p>
+
+---
+
+## 🔗 Connect: <br>
 <p align="center">
   <a href="mailto:kislay.kt18@gmail.com" title="Email">
     <img alt="Gmail" height="28" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg">
@@ -29,61 +70,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
----
-
-### About me
-I’m a Computer Science undergrad at VIT Bhopal who enjoys building **scalable, production-ready web backends** and **cloud-native systems**. I work mostly with **Next.js/React, Node.js/Express, PostgreSQL**, and deploy using **Docker/Kubernetes/AWS**. I care about clean APIs, data modeling, and pragmatic system design.
-
-- 🧱 Strengths: DSA, OOP, API design, DB optimization
-- ☁️ Cloud/DevOps: AWS (EC2, S3, Lambda, IAM), Docker, K8s, GitHub Actions
-- 🔭 Current focus: robust service boundaries, typed backends, and infra that doesn’t wake you at 3 a.m.
-
----
-
-### 🏗 Featured projects
-- **Travel Buddy – Smart Travel Coordination Platform**  
-  Next.js, TypeScript, PostgreSQL, Tailwind CSS, AWS.  
-  Multi-user trip + expense management with real-time sync, normalized Postgres schema (10+ tables), secure REST APIs (Zod), and 1k+ req/day in stress tests.  
-  _Repo: (make public or link here)_
-
-- **Email Prioritization System**  
-  React, Node.js, TypeScript, PostgreSQL, OAuth 2.0.  
-  Ingests Gmail accounts on a schedule, parses & buckets 1000+ emails/month with rule-based filters assisted by an LLM, stores structured metadata, and avoids reprocessing.  
-  _Repo: (make public or link here)_
-
-- **Course Tracking Website**  
-  React, Node.js, PostgreSQL, AWS.  
-  Dashboards for students/instructors/admins with RBAC, real-time progress via Socket.io, and 99.9% tested uptime on EC2/S3.  
-  _Repo: (make public or link here)_
-
-> Tip: Pin these repositories on your profile (Customize your pins) and link the live demos if available.
-
----
-
-### 🧰 Tech I use
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900">
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/Drizzle%20ORM-0A0A0A?logo=drizzle&logoColor=white">
-</p>
-
----
-
-### 📈 GitHub at a glance
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kislay0&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Kislay0" />
-</p>
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kislay0&layout=compact&langs_count=8" />
-</p>
-
----
-
+<!-- Optional: a short “Now” section to show what you’re focused on -->
+<sub>Now: polishing MERN basics and building small features end-to-end.</sub>
