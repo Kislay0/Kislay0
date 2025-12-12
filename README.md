@@ -17,7 +17,6 @@
 - 🌱 Currently learning **React**, **Node/Express**, and a bit of **TypeScript**.
 - 🤝 Open to collaborating on beginner-friendly full-stack projects.
 - 📫 How to reach me:
-<p align="center">
   <a href="mailto:kislay.kt18@gmail.com" title="Email">
     <img alt="Gmail" height="38" src="https://img.icons8.com/fluency/48/gmail-new.png">
   </a>
@@ -25,7 +24,6 @@
   <a href="https://linkedin.com/in/kislay-tiwari" title="LinkedIn">
     <img alt="LinkedIn" height="38" src="https://img.icons8.com/color/48/linkedin-circled--v1.png">
   </a>
-</p>
 
 
 
