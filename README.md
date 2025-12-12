@@ -39,10 +39,9 @@ Here’s what I often use:
 
 Here are some highlighted repositories from my work:
 
-- 🔐 **[responsive-login-signin-signup](https://github.com/Kislay0/responsive-login-signin-signup)** — A responsive login/signup UI clone.
 - 📊 **[Leetcode-practice](https://github.com/Kislay0/Leetcode-practice)** — Collection of algorithm problems and solutions I practiced! (C++).
+- 🔐 **[responsive-login-signin-signup](https://github.com/Kislay0/responsive-login-signin-signup)** — A responsive login/signup UI clone.
 - 🧠 **[Mern](https://github.com/Kislay0/Mern)** — MERN stack web app starter.
-- 📁 **[Web-based-SSIS](https://github.com/Kislay0/Web-based-SSIS)** — A student information system built with Flask.
 - 👥 **[Ethnus_Mern](https://github.com/Kislay0/Ethnus_Mern)** — Group project using MERN.
 
 ---
