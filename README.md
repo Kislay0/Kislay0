@@ -50,10 +50,9 @@
 ## 🌟 Featured projects
 | Project | What it is | Stack |
 |---|---|---|
-| [TravelBud](https://github.com/Kislay0/travelBud) | A modern collaborative travel planner with shared itineraries, expense mangement, location sharing, and real-time coordination. | Next.js · TypeScript · Tailwind CSS · PostgreSQL (Neon)|
-| [CPP_Neural_Network](https://github.com/Kislay0/CPP_Neural_Network) | A neural network built entirely from scratch in C++ using Eigen, demonstrating core ML math and backpropagation. | C++ · Eigen |
-| [Mern](https://github.com/Kislay0/Mern) | MERN playground / experiments | MongoDB · Express · React · Node |
-| [Leetcode-practice](https://github.com/Kislay0/Leetcode-practice) | DSA practice archive | C++ |
+| [TravelBud](https://github.com/Kislay0/travelBud) | (Group Project) A modern collaborative travel planner with shared itineraries, expense mangement, location sharing, and real-time coordination. | Next.js · TypeScript · Tailwind CSS · PostgreSQL (Neon)|
+| [ConnectChess](https://github.com/Kislay0/ConnectChess) |  A real-time, multiplayer, turn-based strategy game, built with a deterministic game engine, clean architectural separation, and a serverless backend. | PostgreSQL (SupaBase), Javascript |
+| [MailPriritsor](https://github.com/Kislay0/mail-prioritiser) | A real-world backend automation system to rank and prioritize all incoming mails | Python, PostgreSQL |
 
 ---
 
